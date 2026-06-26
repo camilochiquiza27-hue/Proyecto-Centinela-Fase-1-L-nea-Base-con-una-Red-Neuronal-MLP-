@@ -24,7 +24,7 @@ desde cero sobre características tabulares.
 - **Fuente:** *Water Quality Prediction* (id 733), UCI Machine Learning Repository.
 - **Licencia:** Creative Commons Attribution 4.0 (CC BY 4.0).
 - **Cita:** Zhao, L. (2019). *Water Quality Prediction* [Conjunto de datos]. UCI
-  Machine Learning Repository. https://doi.org/10.1145/3339823
+  Machine Learning Repository. https://doi.org/10.1145/3339823 / https://archive.ics.uci.edu/dataset/733/water+quality+prediction-1
 - **Formato:** `.mat` (MATLAB). Se carga con `scipy.io.loadmat` (no es importable con
   `ucimlrepo`). Estructura: serie de 37 estaciones × 705 días, 11 índices
   físico-químicos. Valores normalizados (pH ÷10).
