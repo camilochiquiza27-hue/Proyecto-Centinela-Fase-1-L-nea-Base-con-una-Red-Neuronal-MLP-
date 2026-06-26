@@ -56,6 +56,15 @@ Salida = **logit** + `BCEWithLogitsLoss` (evita la doble sigmoide).
 | Recall (Riesgo) | 0,892 |
 | Falsos negativos | 435 |
 
+## Visualización de datos
+
+Las gráficas del notebook aplican principios de comunicación visual (Cairo, Few,
+Nussbaumer Knaflic, Munzner): títulos que comunican el hallazgo (no el tipo de
+gráfico), alto *data-ink* sin *chartjunk*, **paleta accesible para daltonismo**
+(Okabe-Ito: azul/ámbar en vez de rojo/verde), y anotaciones que dirigen la atención
+al punto clave. Se distingue entre gráficas *exploratorias* (equipo técnico) y
+*explicativas* (cliente JAAR).
+
 ## Hoja de ruta del proyecto
 
 | Fase | Qué se construye |
